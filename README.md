@@ -1,4 +1,5 @@
 # JavaScript Starter Template
+
 [![CI](https://github.com/el-backendev/javascript-template/actions/workflows/ci.yml/badge.svg)](https://github.com/el-backendev/javascript-template/actions/workflows/ci.yml)
 
 Minimal template for JavaScript development with ESLint + Prettier formatting.
@@ -21,11 +22,10 @@ npm install
 
 - `npm run dev` → run project with Node.js
 
-
 ## Features
 
-- ESLint 9.x with flat config 
+- ESLint 9.x with flat config
 
-- Prettier 3.x configured with StandardJS-like style (single quotes, no semicolons, 2-space indentation) 
+- Prettier 3.x configured with StandardJS-like style (single quotes, no semicolons, 2-space indentation)
 
 - GitHub Actions for CI (lint, format, test)
